@@ -23,29 +23,6 @@
 ##### 108 contributions in the last year
 [![Header image for profile](assets/snake.svg)](https://github.com/Ibrakhimzhanov)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details>
 <summary>Github статус</summary>
 <div markdown="1">
@@ -59,7 +36,7 @@
 <summary>Топ языков на которых я пишу</summary>
 <div markdown="2">
   
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrakhimzhanov&layout=compact)]
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrakhimzhanov&layout=compact)
   
 </div>
 </details>
