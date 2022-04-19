@@ -20,6 +20,14 @@
 ## Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="20" alt="HTML" src="assets/icons/html.svg" title="HTML"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="20" alt="CSS" src="assets/icons/css.svg" title="CSS"></a></code>
+<code><a href="https://getbootstrap.com/"><img height="20" alt="The Bootstrap framework" src="assets/icons/bootstrap.svg" title="Bootstrap"></a></code>
+<code><a href="https://tailwindcss.com/"><img height="20" alt="Tailwind CSS framework" src="assets/icons/tailwindcss.svg" title="Tailwind CSS"></a></code>
+<code><a href="https://daringfireball.net/projects/markdown/"><img height="20" alt="Markdown" src="assets/icons/markdown.svg" title="Markdown"></a></code>
+<code><a href="https://git-scm.com/"><img height="20" alt="Git" src="assets/icons/git.svg" title="Git"></a></code>
+<code><a href="https://github.com/"><img height="20" alt="GitHub" src="assets/icons/GitHub-Mark.svg" title="GitHub"></a></code>
+<code><a href="https://code.visualstudio.com/"><img height="20" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="20"></code>
 <code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="20" /></code>
