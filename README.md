@@ -20,7 +20,7 @@
 ## Languages and Tools
 
 
-##### 108 contributions in the last year                         ###### Contribution settings 
+##### 108 contributions in the last year
 [![Header image for profile](assets/snake.svg)](https://github.com/Ibrakhimzhanov)
 
 
