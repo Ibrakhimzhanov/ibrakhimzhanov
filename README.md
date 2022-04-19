@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/ibrakhimzhanov/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0088cc?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://t.me/ibrakhimzhanovit" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
-<a href="https://github.com/Ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
+<a href="https://github.com/Ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0088cc?style=flat-square&logo=github" alt="GitHub"></a>
 
 **Ibrakhimzhanov/ibrakhimzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
