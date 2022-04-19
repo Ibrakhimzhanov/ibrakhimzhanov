@@ -2,7 +2,7 @@
 
 <a href="https://dev.to/ibrakhimzhanov" target="_blank"><img align="left" height="300px" alt="GIF about me" src="assets/readme_me.gif"></a>
 
-<a href="https://twitter.com/armanpwnz" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/ibrakhimzhanov/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="LinkedIn"></a>
 <a href="https://t.me/armasher" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
 <a href="https://github.com/armanpwnz/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 
