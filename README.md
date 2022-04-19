@@ -1,6 +1,6 @@
 # <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Привет, я Ислам 
 
-<a href="https://dev.to/ibrakhimzhanov"><img height="100px" alt="GIF about me" src="assets/readme_me.gif"></a>
+<a href="https://dev.to/ibrakhimzhanov"><img height="300px" alt="GIF about me" src="assets/readme_me.gif"></a>
 
 [![Header image for profile](assets/readme_me.gif)](https://dev.to/ibrakhimzhanov)
 
