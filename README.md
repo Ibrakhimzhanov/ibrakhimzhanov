@@ -1,4 +1,6 @@
-# <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Ислам
+# <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Привет, я Ислам 
+
+[![Header image for profile](assets/readme_me.gif)](https://dev.to/ibrakhimzhanov)
 
 **Ibrakhimzhanov/ibrakhimzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -6,12 +8,22 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>Github stats</summary>
+<summary>Github статус</summary>
 <div markdown="1">
-![Ibrakhimzhanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrakhimzhanov&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
+  
+![Ibrakhimzhanov's GitHub](https://github-readme-stats.vercel.app/api?username=ibrakhimzhanov&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
+  
 </div>
 </details>
 
+<details>
+<summary>Топ языков на которых я пишу</summary>
+<div markdown="2">
+  
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrakhimzhanov&layout=compact)]
+  
+</div>
+</details>
 
 
 
