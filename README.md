@@ -21,8 +21,7 @@
 
 
 ##### 108 contributions in the last year                         ###### Contribution settings 
-[![Snake game from my GitHub contribution graph](https://github.com/cw118/cw118/blob/output/gh-contribution-snk.svg)](https://github.com/Platane/snk)
-
+[![Snake game from my GitHub contribution graph](https://github.com/cw118/cw118/blob/output/gh-contribution-snk.svg)]
 
 
 
