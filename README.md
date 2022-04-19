@@ -17,7 +17,7 @@
   - ⚡ Fun fact: ...
   - 
 
-## Languages and Tools
+## Языки и инструменты которыми я владею
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="20" style="margin 10px" alt="HTML" src="assets/icons/html.svg" title="HTML"></a></code>
