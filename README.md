@@ -7,6 +7,9 @@
 <a href="https://github.com/Ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0088cc?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://dev.to/ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-dev.to-0088cc?style=flat-square&logo=dev.to" alt="DevTo"></a>
 
+[![Snake game from my GitHub contribution graph](https://github.com/cw118/cw118/blob/output/gh-contribution-snk.svg)](https://github.com/Platane/snk)
+
+
 **Ibrakhimzhanov/ibrakhimzhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
