@@ -1,5 +1,8 @@
 # <a href="#"><img height="30px" alt="GIF of waving hand" src="assets/handwave.gif"></a> Привет, я Ислам 
 
+### Немного спойлера: > Я понимаю, что писать о себе тяжело. Это был вызов, с которым я тоже столкнулся (сейчас😄). Но я прошел через это, и теперь моя страница >приветствия на github рассказывает
+>убедительную историю, позволяет новым читателям и тебе мой новый читатель познакомиться со мной, прежде чем ты решишь нанять меня или подписаться.
+
 <a href="https://dev.to/ibrakhimzhanov" target="_blank"><img align="left" height="300px" alt="GIF about me" src="assets/readme_me.gif"></a>
 
 <a href="https://t.me/ibrakhimzhanovit" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
@@ -7,7 +10,7 @@
 <a href="https://github.com/Ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0088cc?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://dev.to/ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-dev.to-0088cc?style=flat-square&logo=dev.to" alt="DevTo"></a>
 
-**About me**
+**Обо мне**
 
   - 💼 FrontEnd Developer в [Hamkorbank](https://hamkorbank.uz)  
   - ✌️  Имею опыт работы в CRM CREATIO  более 2-х лет.
