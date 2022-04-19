@@ -19,6 +19,18 @@
 
 ## Languages and Tools
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="20"></code>
+<code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="20" /></code>
+<code><img style="margin: 10px" src="https://api.iconify.design/logos:webpack.svg" alt="Webpack" height="20" /></code>
+<code><img style="margin: 10px" src="https://user-images.githubusercontent.com/53177375/100646696-a427e900-333e-11eb-87f5-503de8ab1ab6.png" alt="Material-UI" height="20" /></code>
+<code><img style="margin: 8px" src="https://api.iconify.design/logos:tailwindcss-icon.svg" alt="TailwindCSS" height="20" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
 
 ##### 108 contributions in the last year
 [![Header image for profile](assets/snake.svg)](https://github.com/Ibrakhimzhanov)
