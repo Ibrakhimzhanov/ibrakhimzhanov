@@ -45,8 +45,7 @@
 <code><a href="https://daringfireball.net/projects/markdown/"><img height="20" style="margin 10px" alt="Markdown" src="assets/icons/markdown.svg" title="Markdown"></a></code>
 <code><a href="https://git-scm.com/"><img height="20" alt="Git" style="margin 10px" src="assets/icons/git.svg" title="Git"></a></code>
 <code><a href="https://github.com/"><img height="20" alt="GitHub" style="margin 10px" src="assets/icons/GitHub-Mark.svg" title="GitHub"></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="20" style="margin 10px" alt="Visual Studio Code" src="assets/icons/vscode.svg" title="VS Code"></a></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 
