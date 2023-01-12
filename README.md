@@ -35,7 +35,10 @@
 </code>
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="20" style="margin 10px" alt="CSS" src="assets/icons/vue.svg" title="CSS"></a>
-</code><code><a href="https://tailwindcss.com/"><img height="20" alt="Tailwind CSS framework" style="margin 10px" src="assets/icons/tailwindcss.svg" title="Tailwind CSS"></a></code><code><a href="https://getbootstrap.com/"><img height="20" alt="The Bootstrap framework" style="margin 10px" src="assets/icons/bootstrap.svg" title="Bootstrap"></a></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code>
+</code><code><a href="https://tailwindcss.com/"><img height="20" alt="Tailwind CSS framework" style="margin 10px" src="assets/icons/tailwindcss.svg" title="Tailwind CSS"></a></code><code><a href="https://getbootstrap.com/"><img height="20" alt="The Bootstrap framework" style="margin 10px" src="assets/icons/bootstrap.svg" title="Bootstrap"></a></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code>
   <img height="20" style="margin 10px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img style="margin 10px" src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" alt="React" height="20"></code>
 <code><img style="margin 10px" src="https://api.iconify.design/logos:redux.svg" alt="Redux" height="20" /></code>
