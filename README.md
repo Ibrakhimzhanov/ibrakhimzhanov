@@ -16,7 +16,7 @@
 
 **Обо мне**
 
-  - 💼 FrontEnd Developer в [Hamkorbank](https://hamkorbank.uz)  
+  - 💼 CRM && FrontEnd Developer в [Hamkorbank](https://hamkorbank.uz)  
   - ✌️  Имею опыт работы в CRM CREATIO  более 2-х лет.
   - ❤️ Мне нравится писать код на JS и проводить время перед комьютером.
   - 💬 Хочешь познакомиться по ближе? Давай знакомиться. Вот мой:<a href="https://www.instagram.com/uzwebblog/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram" alt="Instagram"></a>
