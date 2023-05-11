@@ -11,9 +11,8 @@
 
 <a href="https://t.me/ibrakhimzhanovit" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram" alt="Telegram"></a>
 <a href="https://www.linkedin.com/in/ibrakhimzhanov/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0088cc?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<!-- <a href="https://github.com/Ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0088cc?style=flat-square&logo=github" alt="GitHub"></a> -->
 <a href="https://dev.to/ibrakhimzhanovit" target="_blank"><img src="https://img.shields.io/badge/-dev.to-0088cc?style=flat-square&logo=dev.to" alt="DevTo"></a>
-
+<!-- <a href="https://github.com/Ibrakhimzhanov" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0088cc?style=flat-square&logo=github" alt="GitHub"></a> -->
 **Обо мне**
 
   - 💼 CRM && FrontEnd Developer в [Hamkorbank](https://hamkorbank.uz)  
